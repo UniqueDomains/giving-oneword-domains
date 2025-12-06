@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .GIVING one-word domains still available to buy.
 
-This dataset contains 4,797 .GIVING one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,796 .GIVING one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.GIVING one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=giving-oneword-domains&utm_content=description.top) (4,797) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.GIVING one word domai
 | abatic.giving     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.giving    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.giving   | available | 50       | 1%     | 8      |           |         |         |
-| abc.giving        | available | 102      | 41%    | 3      |           |         |         |
+| abc.giving        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.giving  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.giving  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.giving | available | 56       | 1%     | 10     |           |         |         |
