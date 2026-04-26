@@ -1,22 +1,22 @@
-# Available .GIVING One-Word Domains (9,697)
+# Available .GIVING One-Word Domains (12,114)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C699%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C697%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C114%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .giving one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .giving one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,114 domains** on the canonical page below.
 
-**Public extract:** 9,699 rows · **Live catalog:** 9,697 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,114 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/giving`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .GIVING one-word domai
 
 ### Files
 
-- `giving.csv` — public CSV extract (9,699 rows)
-- `giving.json` — public JSON extract (9,699 rows)
+- `giving.csv` — public CSV extract (1,000 rows)
+- `giving.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| nationwide.giving | available | $5.99     | $40.99        | 76             | 66     | 10     | name.com         |
-| book.giving       | resell    | —         | —             | 82             | 55     | 4      | GoDaddy.com, LLC |
-| easy.giving       | premium   | $82.50    | $82.50        | 128            | 68     | 4      | name.com         |
-| seventeen.giving  | available | $5.99     | $40.99        | 84             | 62     | 9      | name.com         |
-| together.giving   | resell    | —         | —             | 80             | 46     | 8      | Porkbun LLC      |
-| abc.giving        | premium   | $85.80    | $85.80        | 102            | 50     | 3      | namecheap        |
-| zero.giving       | available | $5.99     | $40.99        | 112            | 53     | 4      | name.com         |
-| forever.giving    | resell    | —         | —             | 98             | 40     | 7      | Porkbun LLC      |
-| security.giving   | premium   | $260      | $260          | 70             | 49     | 8      | namecheap        |
-| athletics.giving  | available | $35.98    | —             | 69             | 52     | 9      | namecheap        |
-| ADS.giving        | resell    | —         | —             | 70             | 40     | 3      | GoDaddy.com, LLC |
-| gold.giving       | premium   | $85.80    | $85.80        | 72             | 48     | 4      | namecheap        |
-| void.giving       | available | $5.99     | —             | 80             | 47     | 4      | name.com         |
-| virtual.giving    | resell    | —         | —             | —              | 39     | 7      | Porkbun LLC      |
-| big.giving        | premium   | $37.50    | $37.50        | 88             | 47     | 3      | name.com         |
-| only.giving       | available | $5.99     | $40.99        | 110            | 46     | 4      | name.com         |
-| total.giving      | resell    | —         | —             | 108            | 38     | 5      | GoDaddy.com, LLC |
-| trade.giving      | premium   | $85.80    | $85.80        | 116            | 46     | 5      | namecheap        |
-| car.giving        | available | $35.98    | —             | 94             | 46     | 3      | namecheap        |
-| head.giving       | resell    | —         | —             | 70             | 26     | 4      | Porkbun LLC      |
+| domain                    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| insight.giving            | available | $5.99     | —             | 76             | 69     | 8      | name.com  |
+| Tools.giving              | premium   | $92.40    | $92.40        | 56             | 40     | 5      | namecheap |
+| travelers.giving          | available | $5.99     | —             | 58             | 61     | 9      | name.com  |
+| SanDiego.giving           | premium   | $500      | —             | 74             | 29     | 9      | name.com  |
+| RedSox.giving             | available | $35.98    | —             | 72             | 60     | 7      | namecheap |
+| children.giving           | premium   | $82.50    | —             | 68             | 21     | 8      | name.com  |
+| farmers.giving            | available | $5.99     | —             | 54             | 59     | 7      | name.com  |
+| bills.giving              | premium   | $82.50    | —             | 54             | 19     | 5      | name.com  |
+| Books.giving              | available | $35.98    | —             | 52             | 49     | 5      | namecheap |
+| breastcancer.giving       | premium   | $123.75   | —             | 58             | 9      | 13     | name.com  |
+| Ryan.giving               | available | $35.98    | —             | 60             | 44     | 4      | namecheap |
+| DistrictofColumbia.giving | premium   | $560      | $560          | 52             | 4      | 20     | namecheap |
+| lets.giving               | available | $5.99     | —             | 77             | 39     | 4      | name.com  |
+| justin.giving             | available | $5.99     | —             | 58             | 38     | 7      | name.com  |
+| tokens.giving             | available | $5.99     | —             | 51             | 36     | 6      | name.com  |
+| aliens.giving             | available | $5.99     | —             | 56             | 35     | 6      | name.com  |
+| homes.giving              | available | $5.99     | —             | 86             | 34     | 5      | name.com  |
+| tickets.giving            | available | $5.99     | —             | 64             | 34     | 7      | name.com  |
+| etc.giving                | available | $5.99     | —             | 58             | 34     | 3      | name.com  |
+| payments.giving           | available | $5.99     | —             | 58             | 33     | 8      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,699-row public sample | 9,697 live domains                               |
+| 1,000-row public sample | 12,114 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIVING One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIVING One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
