@@ -1,10 +1,10 @@
-# Available .GIVING One-Word Domains (12,114)
+# Available .GIVING One-Word Domains (12,677)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C114%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C677%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .giving one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,114 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,677 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,114 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,677 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/giving`  
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | ------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | insight.giving            | available | $5.99     | —             | 76             | 69     | 8      | name.com  |
 | Tools.giving              | premium   | $92.40    | $92.40        | 56             | 40     | 5      | namecheap |
-| travelers.giving          | available | $5.99     | —             | 58             | 61     | 9      | name.com  |
-| SanDiego.giving           | premium   | $500      | —             | 74             | 29     | 9      | name.com  |
 | RedSox.giving             | available | $35.98    | —             | 72             | 60     | 7      | namecheap |
-| children.giving           | premium   | $82.50    | —             | 68             | 21     | 8      | name.com  |
+| SanDiego.giving           | premium   | $500      | —             | 74             | 29     | 9      | name.com  |
 | farmers.giving            | available | $5.99     | —             | 54             | 59     | 7      | name.com  |
-| bills.giving              | premium   | $82.50    | —             | 54             | 19     | 5      | name.com  |
+| children.giving           | premium   | $82.50    | —             | 68             | 21     | 8      | name.com  |
 | Books.giving              | available | $35.98    | —             | 52             | 49     | 5      | namecheap |
-| breastcancer.giving       | premium   | $123.75   | —             | 58             | 9      | 13     | name.com  |
+| bills.giving              | premium   | $82.50    | —             | 54             | 19     | 5      | name.com  |
 | Ryan.giving               | available | $35.98    | —             | 60             | 44     | 4      | namecheap |
-| DistrictofColumbia.giving | premium   | $560      | $560          | 52             | 4      | 20     | namecheap |
+| breastcancer.giving       | premium   | $123.75   | —             | 58             | 9      | 13     | name.com  |
 | lets.giving               | available | $5.99     | —             | 77             | 39     | 4      | name.com  |
+| DistrictofColumbia.giving | premium   | $560      | $560          | 52             | 4      | 20     | namecheap |
 | justin.giving             | available | $5.99     | —             | 58             | 38     | 7      | name.com  |
+| flow.giving               | premium   | —         | —             | 78             | 68     | 4      | —         |
 | tokens.giving             | available | $5.99     | —             | 51             | 36     | 6      | name.com  |
 | aliens.giving             | available | $5.99     | —             | 56             | 35     | 6      | name.com  |
 | homes.giving              | available | $5.99     | —             | 86             | 34     | 5      | name.com  |
 | tickets.giving            | available | $5.99     | —             | 64             | 34     | 7      | name.com  |
-| etc.giving                | available | $5.99     | —             | 58             | 34     | 3      | name.com  |
 | payments.giving           | available | $5.99     | —             | 58             | 33     | 8      | name.com  |
+| maps.giving               | available | $5.99     | —             | 56             | 31     | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,114 live domains                              |
+| 1,000-row public sample | 12,677 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIVING One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIVING One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
