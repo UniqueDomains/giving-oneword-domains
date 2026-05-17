@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .giving one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,676 domains · **Median ask:** $9.51 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/giving`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | RedSox.giving             | available | $35.98    | —             | 72             | 60     | 7      | namecheap |
 | SanDiego.giving           | premium   | $500      | —             | 74             | 29     | 9      | name.com  |
 | farmers.giving            | available | $5.99     | —             | 54             | 59     | 7      | name.com  |
-| children.giving           | premium   | $82.50    | —             | 68             | 21     | 8      | name.com  |
+| children.giving           | premium   | $82.50    | —             | 68             | 19     | 8      | name.com  |
 | Books.giving              | available | $35.98    | —             | 52             | 49     | 5      | namecheap |
 | bills.giving              | premium   | $82.50    | —             | 54             | 19     | 5      | name.com  |
 | Ryan.giving               | available | $35.98    | —             | 60             | 44     | 4      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIVING One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIVING One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
