@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .giving one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,676 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,676 domains · **Median ask:** $9.51 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,676 domains · **Median ask:** $11.32 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/giving`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/giving`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .GIVING one-word domai
 
 ### Files
 
-- `giving.csv` — public CSV extract (1,000 rows)
-- `giving.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `giving.csv`, public CSV extract (1,000 rows)
+- `giving.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| insight.giving            | available | $5.99     | —             | 76             | 69     | 8      | name.com  |
-| Tools.giving              | premium   | $92.40    | $92.40        | 56             | 40     | 5      | namecheap |
-| RedSox.giving             | available | $35.98    | —             | 72             | 60     | 7      | namecheap |
-| SanDiego.giving           | premium   | $500      | —             | 74             | 29     | 9      | name.com  |
-| farmers.giving            | available | $5.99     | —             | 54             | 59     | 7      | name.com  |
-| children.giving           | premium   | $82.50    | —             | 68             | 19     | 8      | name.com  |
-| Books.giving              | available | $35.98    | —             | 52             | 49     | 5      | namecheap |
-| bills.giving              | premium   | $82.50    | —             | 54             | 19     | 5      | name.com  |
-| Ryan.giving               | available | $35.98    | —             | 60             | 44     | 4      | namecheap |
-| breastcancer.giving       | premium   | $123.75   | —             | 58             | 11     | 13     | name.com  |
-| lets.giving               | available | $5.99     | —             | 77             | 39     | 4      | name.com  |
-| DistrictofColumbia.giving | premium   | $560      | $560          | 52             | 4      | 20     | namecheap |
-| justin.giving             | available | $5.99     | —             | 58             | 38     | 7      | name.com  |
-| flow.giving               | premium   | —         | —             | 78             | 68     | 4      | —         |
-| tokens.giving             | available | $5.99     | —             | 51             | 36     | 6      | name.com  |
-| aliens.giving             | available | $5.99     | —             | 56             | 35     | 6      | name.com  |
-| homes.giving              | available | $5.99     | —             | 86             | 34     | 5      | name.com  |
-| tickets.giving            | available | $5.99     | —             | 64             | 34     | 7      | name.com  |
-| payments.giving           | available | $5.99     | —             | 58             | 33     | 8      | name.com  |
-| maps.giving               | available | $5.99     | —             | 56             | 31     | 4      | name.com  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| just.giving  | available | —         | —             | high           | medium | 4      | —         |
+| bad.giving   | available | $5.99     | —             | high           | medium | 3      | name.com  |
+| time.giving  | available | —         | —             | high           | low    | 4      | —         |
+| gay.giving   | premium   | $82.50    | —             | high           | medium | 3      | name.com  |
+| BBC.giving   | available | $5.99     | —             | high           | medium | 3      | name.com  |
+| job.giving   | premium   | $82.50    | —             | high           | low    | 3      | name.com  |
+| bob.giving   | available | $5.99     | —             | high           | medium | 3      | name.com  |
+| tax.giving   | premium   | $82.50    | —             | high           | medium | 3      | name.com  |
+| btw.giving   | available | $5.99     | —             | high           | low    | 3      | name.com  |
+| top.giving   | premium   | $82.50    | —             | high           | medium | 3      | name.com  |
+| egg.giving   | available | $5.99     | —             | high           | low    | 3      | name.com  |
+| toy.giving   | premium   | $82.50    | —             | high           | low    | 3      | name.com  |
+| Eid.giving   | available | $5.99     | —             | high           | low    | 3      | name.com  |
+| usa.giving   | premium   | $1,250    | —             | high           | medium | 3      | name.com  |
+| fly.giving   | available | $5.99     | —             | high           | low    | 3      | name.com  |
+| save.giving  | premium   | $82.50    | —             | high           | low    | 4      | name.com  |
+| had.giving   | available | $5.99     | —             | high           | low    | 3      | name.com  |
+| black.giving | premium   | $82.50    | —             | high           | medium | 5      | name.com  |
+| ice.giving   | available | $5.99     | —             | medium         | medium | 3      | name.com  |
+| photo.giving | premium   | $82.50    | —             | high           | medium | 5      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up of one-word domains on the .giving extension. The naming style is concise and purpose-led, which suits nonprofits, fundraising campaigns, donor programs, social impact projects, and brands that want a charitable signal in the domain itself. Sample names such as relief.giving, people.giving, memorable.giving, and actual.giving show the range: some are cause-specific, some broad, and some more brandable than descriptive. When comparing these domains, focus on whether the word adds clarity to the .giving ending, whether the phrase is easy to remember and say aloud, and whether the price matches the strength of the combined meaning.
+The .giving TLD signals purpose-driven intent, making it a natural fit for nonprofits, foundations, and social-impact ventures. This list includes 12,676 one-word .giving domain names, from action-oriented names like makehappen.giving and headout.giving to simple, ownable options like half.giving and just.giving. With a median asking price near $11, the extension offers an accessible entry point for founders building cause-based brands and for investors watching a still-emerging namespace.
 
-- Prioritize words that read naturally with .giving
-- Check if the word is generic or trademark-sensitive
-- Use price discipline; median ask is around 9.51
-- Favor memorable words with clear nonprofit fit
+- 12,676 one-word .giving domain names in this selection
+- Median asking price near $11 across the set
+- Includes short, brandable names like half.giving and just.giving
+- Ideal for nonprofits, causes, and mission-driven brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIVING One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIVING One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
