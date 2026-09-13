@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .giving one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,533 domains · **Median ask:** $8.68 · **High-demand under $2,500:** 23
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/tld/giving`
 **Best for:** founders, investors, studios
 
@@ -66,8 +66,9 @@ print(df.head())
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | just.giving  | available | —         | —             | high           | medium | 4      | —         |
 | bad.giving   | available | $5.99     | —             | high           | medium | 3      | name.com  |
+| time.giving  | available | —         | —             | high           | low    | 4      | —         |
 | gay.giving   | premium   | $82.50    | —             | high           | medium | 3      | name.com  |
-| BBC.giving   | available | $5.99     | —             | high           | medium | 3      | name.com  |
+| BBC.giving   | available | $7.48     | $35.98        | medium         | medium | 3      | namecheap |
 | job.giving   | premium   | $82.50    | —             | high           | low    | 3      | name.com  |
 | bob.giving   | available | $5.99     | —             | high           | medium | 3      | name.com  |
 | tax.giving   | premium   | $82.50    | —             | high           | medium | 3      | name.com  |
@@ -83,7 +84,6 @@ print(df.head())
 | save.giving  | premium   | $82.50    | —             | high           | low    | 4      | name.com  |
 | ice.giving   | available | $5.99     | $40.99        | medium         | medium | 3      | name.com  |
 | black.giving | premium   | $82.50    | —             | high           | medium | 5      | name.com  |
-| lol.giving   | available | $5.99     | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIVING One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIVING One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
