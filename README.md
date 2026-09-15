@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .giving one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,811 domains · **Median ask:** $8.62 · **High-demand under $2,500:** 23
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-15
 **Canonical page:** `https://unique.domains/domains/tld/giving`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,7 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| just.giving  | available | —         | —             | high           | medium | 4      | —         |
 | bad.giving   | available | $5.99     | —             | high           | medium | 3      | name.com  |
-| time.giving  | available | —         | —             | high           | low    | 4      | —         |
 | gay.giving   | premium   | $82.50    | —             | high           | medium | 3      | name.com  |
 | BBC.giving   | available | $7.48     | $35.98        | medium         | medium | 3      | namecheap |
 | job.giving   | premium   | $82.50    | —             | high           | low    | 3      | name.com  |
@@ -82,8 +80,10 @@ print(df.head())
 | xxx.giving   | premium   | $123.75   | $123.75       | low            | medium | 3      | name.com  |
 | had.giving   | available | $5.99     | —             | high           | low    | 3      | name.com  |
 | save.giving  | premium   | $82.50    | —             | high           | low    | 4      | name.com  |
-| ice.giving   | available | $5.99     | $40.99        | medium         | medium | 3      | name.com  |
+| ice.giving   | available | $7.48     | $35.98        | medium         | medium | 3      | namecheap |
 | black.giving | premium   | $82.50    | —             | high           | medium | 5      | name.com  |
+| lol.giving   | available | $5.99     | —             | high           | low    | 3      | name.com  |
+| photo.giving | premium   | $82.50    | —             | high           | medium | 5      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIVING One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIVING One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
