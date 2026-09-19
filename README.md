@@ -1,10 +1,10 @@
-# Available .GIVING One-Word Domains (27,968)
+# Available .GIVING One-Word Domains (28,177)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C968%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C177%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .giving one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,968 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **28,177 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,968 domains · **Median ask:** $8.56 · **High-demand under $2,500:** 23
+**Public extract:** 1,000 rows · **Live catalog:** 28,177 domains · **Median ask:** $8.56 · **High-demand under $2,500:** 23
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-19
 **Canonical page:** `https://unique.domains/domains/tld/giving`
 **Best for:** founders, investors, studios
 
@@ -64,12 +64,7 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| just.giving  | available | —         | —             | high           | medium | 4      | —         |
 | bad.giving   | available | $5.99     | —             | high           | medium | 3      | name.com  |
-| time.giving  | available | —         | —             | high           | low    | 4      | —         |
-| fancy.giving | available | $5.99     | —             | high           | low    | 5      | name.com  |
-| brief.giving | available | $5.99     | $40.99        | high           | low    | 5      | name.com  |
-| soft.giving  | available | $5.99     | $40.99        | high           | low    | 4      | name.com  |
 | gay.giving   | premium   | $82.50    | —             | high           | medium | 3      | name.com  |
 | BBC.giving   | available | $7.48     | $35.98        | medium         | medium | 3      | namecheap |
 | job.giving   | premium   | $82.50    | —             | high           | low    | 3      | name.com  |
@@ -84,6 +79,11 @@ print(df.head())
 | fly.giving   | available | $5.99     | —             | high           | low    | 3      | name.com  |
 | xxx.giving   | premium   | $123.75   | $123.75       | low            | medium | 3      | name.com  |
 | had.giving   | available | $5.99     | —             | high           | low    | 3      | name.com  |
+| save.giving  | premium   | $82.50    | —             | high           | low    | 4      | name.com  |
+| ice.giving   | available | $7.48     | $35.98        | medium         | medium | 3      | namecheap |
+| black.giving | premium   | $82.50    | —             | high           | medium | 5      | name.com  |
+| lol.giving   | available | $5.99     | —             | high           | low    | 3      | name.com  |
+| photo.giving | premium   | $82.50    | —             | high           | medium | 5      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,968 live domains                        |
+| 1,000-row public sample | 28,177 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 23 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIVING One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIVING One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
