@@ -1,10 +1,10 @@
-# Available .GIVING One-Word Domains (33,411)
+# Available .GIVING One-Word Domains (23,754)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C411%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C754%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .giving one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,411 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,754 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,411 domains · **Median ask:** $8.55 · **High-demand under $2,500:** 19
+**Public extract:** 1,000 rows · **Live catalog:** 23,754 domains · **Median ask:** $9.55 · **High-demand under $2,500:** 38
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/giving`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| ash.giving  | available | $5.99     | —             | high           | low    | 3      | name.com  |
-| and.giving  | premium   | $37.50    | —             | high           | medium | 3      | name.com  |
-| axe.giving  | available | $5.99     | —             | high           | low    | 3      | name.com  |
-| job.giving  | premium   | $82.50    | —             | high           | low    | 3      | name.com  |
-| btw.giving  | available | $5.99     | —             | high           | low    | 3      | name.com  |
-| men.giving  | premium   | $82.50    | —             | high           | low    | 3      | name.com  |
-| clx.giving  | available | $5.99     | $40.99        | high           | low    | 3      | name.com  |
-| nyc.giving  | premium   | $1,250    | —             | high           | medium | 3      | name.com  |
-| cxl.giving  | available | $5.99     | $40.99        | high           | low    | 3      | name.com  |
-| tax.giving  | premium   | $82.50    | —             | high           | medium | 3      | name.com  |
-| dad.giving  | available | $5.99     | —             | high           | low    | 3      | name.com  |
-| top.giving  | premium   | $82.50    | —             | high           | medium | 3      | name.com  |
-| des.giving  | available | $5.99     | —             | high           | low    | 3      | name.com  |
-| toy.giving  | premium   | $82.50    | —             | high           | low    | 3      | name.com  |
-| egg.giving  | available | $5.99     | —             | high           | low    | 3      | name.com  |
-| usa.giving  | premium   | $1,250    | —             | high           | medium | 3      | name.com  |
-| eid.giving  | available | $5.99     | —             | high           | low    | 3      | name.com  |
-| xxx.giving  | premium   | $123.75   | $123.75       | high           | medium | 3      | name.com  |
-| era.giving  | available | $5.99     | —             | high           | medium | 3      | name.com  |
-| sale.giving | premium   | $82.50    | —             | high           | low    | 4      | name.com  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ade.giving      | available | $7.48     | $35.98        | high           | low    | 3      | namecheap |
+| win.giving      | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap |
+| amc.giving      | available | $7.48     | $35.98        | high           | medium | 3      | namecheap |
+| here.giving     | premium   | $85.80    | $85.80        | high           | medium | 4      | namecheap |
+| anu.giving      | available | $7.48     | $35.98        | high           | low    | 3      | namecheap |
+| photo.giving    | premium   | $85.80    | $85.80        | high           | medium | 5      | namecheap |
+| ate.giving      | available | $5.99     | —             | high           | low    | 3      | name.com  |
+| waste.giving    | premium   | $260      | $260          | high           | low    | 5      | namecheap |
+| but.giving      | available | $7.48     | $35.98        | high           | low    | 3      | namecheap |
+| hobart.giving   | premium   | $128.70   | $128.70       | high           | low    | 6      | namecheap |
+| cot.giving      | available | $5.99     | —             | high           | low    | 3      | name.com  |
+| florida.giving  | premium   | $520      | $520          | high           | medium | 7      | namecheap |
+| did.giving      | available | $5.99     | —             | high           | low    | 3      | name.com  |
+| abortion.giving | premium   | $260      | $260          | high           | low    | 8      | namecheap |
+| dun.giving      | available | $5.99     | $40.99        | medium         | low    | 3      | name.com  |
+| richmond.giving | premium   | $500      | —             | high           | low    | 8      | name.com  |
+| fag.giving      | available | $7.48     | $35.98        | high           | low    | 3      | namecheap |
+| fly.giving      | available | $7.48     | $35.98        | high           | medium | 3      | namecheap |
+| gdp.giving      | available | $7.48     | $35.98        | high           | low    | 3      | namecheap |
+| hal.giving      | available | $7.48     | $35.98        | high           | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,411 live domains                        |
+| 1,000-row public sample | 23,754 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 19 high-demand names under $2,500          |
+| Basic exported fields   | 38 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GIVING One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GIVING One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
